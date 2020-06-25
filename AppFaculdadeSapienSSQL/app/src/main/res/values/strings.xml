@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Faculdade Sapiens SQL</string>
+    <string name="edt_Name"> Nome Sobrenome</string>
+    <string name="edt_Ra"> Ra, Ex:2010504</string>
+    <string name="edt_Curso"> Curso</string>
+    <string name="btn_Salve">Salvar Dados</string>
+    <string name="btn_Mostrar">Mostrar Dados</string>
+    <string name="txt_Id">Id</string>
+    <string name="txtName">Nome</string>
+    <string name="txtRa">Ra</string>
+    <string name="txtCurso">Curso</string>
+    <string name="txtTitulo">Dados Armagenados</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_pesquisa">Pesquisar</string>
+    <string name="btn_adcionar">Adicionar</string>
+    <string name="txtPic">Click na foto</string>
+    <string name="image_view">User photo</string>
+</resources>
